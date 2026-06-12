@@ -182,3 +182,4 @@ axes[3].grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('pyomo_dispatch.png', dpi=150, bbox_inches='tight')
 plt.show()
+
