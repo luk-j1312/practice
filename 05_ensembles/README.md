@@ -2,9 +2,9 @@
 
 Self-led study repository covering Python, ML, modeling, and optimization, built in preparation for future coursework and potential work in energy.
 
-**Author:** Luke /
-**Program:** Princeton BSE, ORFE /
-**Stack:** Python 3.11, NumPy, Pandas, Matplotlib, Scikit-learn, Statsmodels, SciPy, PuLP, Pyomo
+**Author:** Luke
+**Program:** Princeton BSE, ORFE
+**Stack:** Python 3.11 / NumPy / Pandas / Matplotlib / Scikit-learn / Statsmodels / SciPy / PuLP / Pyomo
 
 ---
 
